@@ -1,0 +1,781 @@
+Data is served from T2_BE_UCL instead of original site infn.it
+%MSG
+16-Apr-2016 13:38:11 BST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/8A409B34-02A9-E511-ABBE-002590A8882C.root
+%MSG-w L1Prompt:  L1EventTreeProducer:l1EventTree@ctor 16-Apr-2016 13:38:17 BST  pre-events
+No PU reweighting inputs - not going to calculate weights
+%MSG
+Begin processing the 1st record. Run 1, Event 655011, LumiSection 4382 at 16-Apr-2016 13:38:43.133 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:39:07 BST  Run: 1 Event: 655084
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:39:07 BST  Run: 1 Event: 655084
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:39:16 BST  Run: 1 Event: 656619
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:39:16 BST  Run: 1 Event: 656619
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:39:26 BST  Run: 1 Event: 656679
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:39:26 BST  Run: 1 Event: 656679
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:39:31 BST  Run: 1 Event: 656705
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:39:31 BST  Run: 1 Event: 656705
+ problem of unpacking TF event: 0x10 code
+%MSG
+Begin processing the 201st record. Run 1, Event 656706, LumiSection 4393 at 16-Apr-2016 13:39:31.552 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 401st record. Run 1, Event 1667227, LumiSection 11153 at 16-Apr-2016 13:40:11.131 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 601st record. Run 1, Event 1667427, LumiSection 11154 at 16-Apr-2016 13:40:46.472 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+16-Apr-2016 13:41:03 BST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/8A409B34-02A9-E511-ABBE-002590A8882C.root
+16-Apr-2016 13:41:03 BST  Initiating request to open file file:/hdfs/dpm/phy.bris.ac.uk/home/cms/store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/8856AFCA-F3A8-E511-94DA-001E67E6F7CE.root
+16-Apr-2016 13:41:03 BST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/8856AFCA-F3A8-E511-94DA-001E67E6F7CE.root
+%MSG-w XrdAdaptor:  file_open 16-Apr-2016 13:41:05 BST PostProcessEvent
+Data is served from T2_BE_UCL instead of original site infn.it
+%MSG
+16-Apr-2016 13:41:05 BST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/8856AFCA-F3A8-E511-94DA-001E67E6F7CE.root
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 801st record. Run 1, Event 657904, LumiSection 4401 at 16-Apr-2016 13:41:31.159 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 1001st record. Run 1, Event 658702, LumiSection 4407 at 16-Apr-2016 13:42:15.314 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:42:23 BST  Run: 1 Event: 658726
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:42:23 BST  Run: 1 Event: 658726
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:43:02 BST  Run: 1 Event: 658891
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:43:02 BST  Run: 1 Event: 658891
+ problem of unpacking TF event: 0x10 code
+%MSG
+Begin processing the 1201st record. Run 1, Event 658902, LumiSection 4408 at 16-Apr-2016 13:43:03.875 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:43:09 BST  Run: 1 Event: 658927
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:43:09 BST  Run: 1 Event: 658927
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:43:10 BST  Run: 1 Event: 658933
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:43:10 BST  Run: 1 Event: 658933
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:43:30 BST  Run: 1 Event: 659031
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:43:30 BST  Run: 1 Event: 659031
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 1401st record. Run 1, Event 659102, LumiSection 4409 at 16-Apr-2016 13:43:52.664 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 1601st record. Run 1, Event 958999, LumiSection 6415 at 16-Apr-2016 13:44:42.462 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 1801st record. Run 1, Event 2251477, LumiSection 15061 at 16-Apr-2016 13:45:23.486 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:45:59 BST  Run: 1 Event: 2251636
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:45:59 BST  Run: 1 Event: 2251636
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 2001st record. Run 1, Event 2251677, LumiSection 15062 at 16-Apr-2016 13:46:07.141 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 2201st record. Run 1, Event 2260548, LumiSection 15121 at 16-Apr-2016 13:46:59.332 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 2401st record. Run 1, Event 1586602, LumiSection 10613 at 16-Apr-2016 13:48:03.457 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 2601st record. Run 1, Event 1586802, LumiSection 10615 at 16-Apr-2016 13:49:41.264 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:50:07 BST  Run: 1 Event: 1586891
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:50:07 BST  Run: 1 Event: 1586891
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 2801st record. Run 1, Event 1587002, LumiSection 10616 at 16-Apr-2016 13:50:44.746 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:51:03 BST  Run: 1 Event: 1587092
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:51:03 BST  Run: 1 Event: 1587092
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:51:03 BST  Run: 1 Event: 2282866
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:51:03 BST  Run: 1 Event: 2282866
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 3001st record. Run 1, Event 2282975, LumiSection 15271 at 16-Apr-2016 13:51:35.390 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:51:41 BST  Run: 1 Event: 2282996
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:51:41 BST  Run: 1 Event: 2282996
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+16-Apr-2016 13:51:52 BST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/8856AFCA-F3A8-E511-94DA-001E67E6F7CE.root
+16-Apr-2016 13:51:52 BST  Initiating request to open file file:/hdfs/dpm/phy.bris.ac.uk/home/cms/store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/000E1488-EDA8-E511-8A50-001E67E6F65C.root
+16-Apr-2016 13:51:52 BST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/000E1488-EDA8-E511-8A50-001E67E6F65C.root
+%MSG-w XrdAdaptor:  file_open 16-Apr-2016 13:51:55 BST PostProcessEvent
+Data is served from T2_BE_UCL instead of original site infn.it
+%MSG
+16-Apr-2016 13:51:55 BST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/000E1488-EDA8-E511-8A50-001E67E6F65C.root
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:52:00 BST  Run: 1 Event: 6980972
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:52:00 BST  Run: 1 Event: 6980972
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 3201st record. Run 1, Event 7073753, LumiSection 47317 at 16-Apr-2016 13:52:12.048 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 3401st record. Run 1, Event 7073953, LumiSection 47318 at 16-Apr-2016 13:52:38.876 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 3601st record. Run 1, Event 7205713, LumiSection 48199 at 16-Apr-2016 13:53:06.311 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 3801st record. Run 1, Event 7772718, LumiSection 51992 at 16-Apr-2016 13:53:40.287 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:53:41 BST  Run: 1 Event: 7772727
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:53:41 BST  Run: 1 Event: 7772727
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:53:59 BST  Run: 1 Event: 8465026
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:53:59 BST  Run: 1 Event: 8465026
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:09 BST  Run: 1 Event: 8465089
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:09 BST  Run: 1 Event: 8465089
+ problem of unpacking TF event: 0x10 code
+%MSG
+Begin processing the 4001st record. Run 1, Event 8465103, LumiSection 56623 at 16-Apr-2016 13:54:13.359 BST
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:14 BST  Run: 1 Event: 8465112
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:14 BST  Run: 1 Event: 8465112
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:22 BST  Run: 1 Event: 8465168
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:22 BST  Run: 1 Event: 8465168
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:40 BST  Run: 1 Event: 8717049
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:40 BST  Run: 1 Event: 8717049
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 4201st record. Run 1, Event 8717061, LumiSection 58309 at 16-Apr-2016 13:54:44.291 BST
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:44 BST  Run: 1 Event: 8717066
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:54:44 BST  Run: 1 Event: 8717066
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 4401st record. Run 1, Event 8717261, LumiSection 58310 at 16-Apr-2016 13:55:18.025 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:55:31 BST  Run: 1 Event: 8717335
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:55:31 BST  Run: 1 Event: 8717335
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 4601st record. Run 1, Event 7836009, LumiSection 52415 at 16-Apr-2016 13:56:10.247 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 4801st record. Run 1, Event 7861624, LumiSection 52587 at 16-Apr-2016 13:56:51.254 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 5001st record. Run 1, Event 7861824, LumiSection 52588 at 16-Apr-2016 13:57:22.573 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:57:27 BST  Run: 1 Event: 7861852
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:57:27 BST  Run: 1 Event: 7861852
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:57:41 BST  Run: 1 Event: 8076906
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:57:41 BST  Run: 1 Event: 8076906
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 5201st record. Run 1, Event 8077005, LumiSection 54027 at 16-Apr-2016 13:57:56.371 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:57:58 BST  Run: 1 Event: 8077025
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:57:58 BST  Run: 1 Event: 8077025
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:58:00 BST  Run: 1 Event: 8077033
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:58:00 BST  Run: 1 Event: 8077033
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+16-Apr-2016 13:58:07 BST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/000E1488-EDA8-E511-8A50-001E67E6F65C.root
+16-Apr-2016 13:58:07 BST  Initiating request to open file file:/hdfs/dpm/phy.bris.ac.uk/home/cms/store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/0079B9F8-F3A8-E511-83C8-001E67397D91.root
+16-Apr-2016 13:58:08 BST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/0079B9F8-F3A8-E511-83C8-001E67397D91.root
+%MSG-w XrdAdaptor:  file_open 16-Apr-2016 13:58:10 BST PostProcessEvent
+Data is served from T2_BE_UCL instead of original site infn.it
+%MSG
+16-Apr-2016 13:58:10 BST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/0079B9F8-F3A8-E511-83C8-001E67397D91.root
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 5401st record. Run 1, Event 5220060, LumiSection 34917 at 16-Apr-2016 13:58:29.152 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 5601st record. Run 1, Event 5453480, LumiSection 36479 at 16-Apr-2016 13:59:01.001 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:59:25 BST  Run: 1 Event: 5453626
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:59:25 BST  Run: 1 Event: 5453626
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 5801st record. Run 1, Event 5453680, LumiSection 36480 at 16-Apr-2016 13:59:34.880 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:59:59 BST  Run: 1 Event: 5560266
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 13:59:59 BST  Run: 1 Event: 5560266
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 6001st record. Run 1, Event 5560324, LumiSection 37193 at 16-Apr-2016 14:00:10.479 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:00:16 BST  Run: 1 Event: 5560371
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:00:16 BST  Run: 1 Event: 5560371
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:00:27 BST  Run: 1 Event: 5560403
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:00:27 BST  Run: 1 Event: 5560403
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 6201st record. Run 1, Event 5782681, LumiSection 38681 at 16-Apr-2016 14:00:47.676 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:00:49 BST  Run: 1 Event: 5782693
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:00:49 BST  Run: 1 Event: 5782693
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:01:06 BST  Run: 1 Event: 5782790
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:01:06 BST  Run: 1 Event: 5782790
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 6401st record. Run 1, Event 5782881, LumiSection 38682 at 16-Apr-2016 14:01:21.969 BST
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:01:22 BST  Run: 1 Event: 5782884
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:01:22 BST  Run: 1 Event: 5782884
+ problem of unpacking TF event: 0x10 code
+%MSG
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+Begin processing the 6601st record. Run 1, Event 5784875, LumiSection 38695 at 16-Apr-2016 14:01:55.422 BST
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+L1TCaloLayer1::UCTRegion::Pegging RegionET
+%MSG-e CSCTFUnpacker:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:02:27 BST  Run: 1 Event: 5785019
+ problem of unpacking TF event: 0x10 code
+%MSG
+%MSG-e produce:  CSCTFUnpacker:csctfDigis 16-Apr-2016 14:02:27 BST  Run: 1 Event: 5785019
+ problem of unpacking TF event: 0x10 code
+%MSG
+16-Apr-2016 14:02:31 BST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall15DR76/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/25nsFlat0to50NzshcalRaw_76X_mcRun2_asymptotic_v12-v1/20000/0079B9F8-F3A8-E511-83C8-001E67397D91.root
