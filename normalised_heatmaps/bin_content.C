@@ -11,9 +11,10 @@
   TH2D * hnew = (TH2D*) h->Clone("hnew");
   hnew->SetTitle("Rescaled");
   float maximum = h->GetMaximum();
+  TRandom * r0 = new TRandom();
   for(int i = 1; i <= h->GetNbinsX(); i++) {
     for (int j = 1; j<= h->GetNbinsY(); j++) {
-      hnew->SetBinContent(i, j, h->GetBinContent(i, j) / maximum);
+      hnew->SetBinContent(i, j, h->GetBinContent(i, j) / (maximum * r0->Rndm(i)));
     }
   }
   hnew->SetMaximum(1);
