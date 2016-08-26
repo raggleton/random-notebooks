@@ -8,7 +8,7 @@
   h->Draw("COLZ");
   c->SaveAs("orig.png");
 
-  TH2D * hnew = (TH2D*) h->Clone("hnew");
+  TH2D * hnew = new TH2D(*h);
   hnew->SetTitle("Rescaled");
   float maximum = h->GetMaximum();
   TRandom * r0 = new TRandom();
